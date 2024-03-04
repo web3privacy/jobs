@@ -1,6 +1,6 @@
 name: New Job listing
 description: Add a new job offer
-title: ""
+title: "<Position Name> [<Your Company>]"
 projects: ["web3privacy/13"]
 body:
   - type: markdown
