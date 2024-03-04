@@ -77,6 +77,10 @@ query {
     if (!c.repository || c.repository.name !== "jobs") {
       continue;
     }
+    if (!item.fieldValueByName) {
+      // skip issues without status
+      continue;
+    }
 
     const status = statuses[item.fieldValueByName.name];
     if (!counts[status]) {
