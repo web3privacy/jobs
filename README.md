@@ -1,6 +1,6 @@
 # 💼 W3PN Privacy Jobs Repository 
 
-This repository serves as a community register of job vacancies. Feel free to [add your own](https://github.com/web3privacy/jobs/issues/new)!
+This repository serves as a community register of job vacancies. Feel free to [add your own]([https://github.com/web3privacy/jobs/issues/new](https://github.com/web3privacy/jobs/issues/new?assignees=&labels=&projects=web3privacy%2F13&template=job-listing.yml&title=%3CPosition+Name%3E+%5B%3CYour+Company%3E%5D))!
 
 ## Rules
 - 1 issue = 1 specific job offer
