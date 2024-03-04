@@ -1,12 +1,12 @@
-name: Job listing
+name: New Job listing
 description: Add a new job offer
-title: "[Bug]: "
+title: ""
 projects: ["web3privacy/13"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to fill out this job listing!
   - type: input
     id: organization-name
     attributes:
