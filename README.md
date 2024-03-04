@@ -1,4 +1,4 @@
-# W3PN Privacy Jobs Repository 💼 
+# 💼 W3PN Privacy Jobs Repository 
 
 This repository serves as a community register of job vacancies. Feel free to [add your own](https://github.com/web3privacy/jobs/issues/new)!
 
