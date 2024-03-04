@@ -1,0 +1,28 @@
+name: Job listing
+description: Add a new job offer
+title: "[Bug]: "
+projects: ["web3privacy/13"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: organization-name
+    attributes:
+      label: Organization Name
+      placeholder: ex. Web3Privacy Now
+    validations:
+      required: false
+  - type: input
+    id: organization-link
+    attributes:
+      label: Organization Link
+      placeholder: ex. https://web3privacy.info
+  - type: textarea
+    id: job-description
+    attributes:
+      label: Job description
+      placeholder: Explain the job offering
+    validations:
+      required: true
