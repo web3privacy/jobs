@@ -26,3 +26,8 @@ body:
       placeholder: Explain the job offering
     validations:
       required: true
+  - type: input
+    id: job-link
+    attributes:
+      label: Link to job detail (apply now)
+      placeholder: ex. https://web3privacy.info/jobs/chef
